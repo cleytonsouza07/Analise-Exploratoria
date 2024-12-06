@@ -41,8 +41,9 @@ Valores ausentes foram tratados utilizando:
 ### 📉 Visualizações
 Os gráficos gerados incluem:
 1. **Distribuição por sexo.**
-2. **Distribuição por faixa etária.**
-3. **Tendência no número de inscrições ao longo dos anos.**
+![Distribuição por sexo](./Isexo.jpg)
+3. **Distribuição por faixa etária.**
+4. **Tendência no número de inscrições ao longo dos anos.**
 
 ### 🧠 Interpretação dos Resultados
 Os gráficos oferecem insights sobre padrões demográficos e mudanças no número de inscrições ao longo do tempo.
