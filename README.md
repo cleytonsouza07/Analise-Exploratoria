@@ -44,7 +44,7 @@ Os gráficos gerados incluem:
 
 ![Distribuição por sexo](./Isexo.jpg)
 
-A distribuição está em Milhões(M)
+As inscrições está em Milhões(M)
 
 2. **Distribuição por faixa etária.**
 
@@ -67,7 +67,7 @@ As faixas etárias no gráfico são representadas pelos seguintes números:
 
 ![Tendência de inscrições](./taxa_inscricao.png)
 
-O total de inscrições estão em Milhões(M)
+O total de inscrições está em Milhões(M)
 
 ### 🧠 Interpretação dos Resultados
 Os gráficos oferecem insights sobre padrões demográficos e mudanças no número de inscrições ao longo do tempo.
