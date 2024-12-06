@@ -50,13 +50,13 @@ Os gráficos gerados incluem:
 
 As faixas etárias no gráfico são representadas pelos seguintes números:
 
-3: Até 17 anos; 2: 18 anos; 4: 19 anos; 11: 20 anos; 5: 21 anos; 1: 22 anos; 6: 23 anos; 12: 24 anos; 7: 25 anos; 8: 26 anos; 13: 27 anos, 9: 28 anos; 10: 29 anos
-14: 30 anos
-15: 31 a 40 anos
-16: 41 a 50 anos
-17: 51 a 60 anos
-18: 61 a 70 anos
-19: 71 a 80 anos
+3: Até 17 anos; 2: 18 anos; 4: 19 anos; 11: 20 anos; 5: 21 anos; 1: 22 anos; 6: 23 anos; 12: 24 anos; 7: 25 anos; 8: 26 anos; 13: 27 anos, 9: 28 anos; 10: 29 anos;
+14: 30 anos;
+15: 31 a 40 anos;
+16: 41 a 50 anos;
+17: 51 a 60 anos;
+18: 61 a 70 anos;
+19: 71 a 80 anos;
 20: 81 anos ou mais
 
 
