@@ -65,6 +65,8 @@ As faixas etárias no gráfico são representadas pelos seguintes números:
 
 ![Tendência de inscrições](./taxa_inscricao.png)
 
+O total de inscrições estão em Milhões(M)
+
 ### 🧠 Interpretação dos Resultados
 Os gráficos oferecem insights sobre padrões demográficos e mudanças no número de inscrições ao longo do tempo.
 
