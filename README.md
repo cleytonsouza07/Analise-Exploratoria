@@ -63,6 +63,7 @@ As faixas etárias no gráfico são representadas pelos seguintes números:
 13: 27 anos ou mais
 
 
+
 3. **Tendência no número de inscrições ao longo dos anos.**
 
 ![Tendência de inscrições](./taxa_inscricao.png)
