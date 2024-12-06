@@ -48,7 +48,6 @@ Os gráficos gerados incluem:
 
 ![Distribuição por faixa etária](./FE.png)
 
-Legenda para o Gráfico de Distribuição por Faixa Etária (ENEM)
 As faixas etárias no gráfico são representadas pelos seguintes números:
 
 3: Até 17 anos
@@ -62,6 +61,7 @@ As faixas etárias no gráfico são representadas pelos seguintes números:
 7: 25 anos
 8: 26 anos
 13: 27 anos ou mais
+
 
 3. **Tendência no número de inscrições ao longo dos anos.**
 
