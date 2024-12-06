@@ -44,12 +44,12 @@ Os gráficos gerados incluem:
 
 ![Distribuição por sexo](./Isexo.jpg)
 
-3. **Distribuição por faixa etária.**
+2. **Distribuição por faixa etária.**
 
 ![Distribuição por faixa etária](./FE.png)
 
 
-5. **Tendência no número de inscrições ao longo dos anos.**
+3. **Tendência no número de inscrições ao longo dos anos.**
 
 ![Tendência de inscrições](./taxa_inscricao.png)
 
